@@ -2,8 +2,7 @@ Hi 👋 My name is Enea Xharau!
 =============================
 Software engineer and a Full Stack developer.
 ----------------------------------------------------
-I have been learning code for about 2 years, mainly JavaScript, TypeScript, NodeJs. Professional in React.js, CSS, HTML, Javascript/Typescript and expressjs.
-* 🌍  I'm based in Tirana, Albania
+Skills: Typescript, NodeJs, React, Next, C#, ASP.NET, SQL, NoSQL
 * ✉️  You can contact me at [xharauenea@gmail.com](mailto:xharauenea@gmail.com) 
 * 🧠  Full Stack developer.
 * ⚡  Finishing bachelors in major Software Engineering.
