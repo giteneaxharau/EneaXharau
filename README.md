@@ -1,7 +1,7 @@
 ### <div align="center">I'm Enea Xharau, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Sub360](https://github.com/sub-360/sub360)  
+- 🔭 I’m currently working on [Ritech International AG](https://ritech.co)  
   
 
 - 🌱 I’m currently learning Go and Rust  
